@@ -96,7 +96,7 @@
     <string name="long_click_on_login">false</string>
     <string name="crothall_comment">Old comment</string>
     
-    <!-- <string name="app_file">transport</string> -->
+    <!-- <string name="app_file">teamflow</string> -->
     <string name="app_file">teamflow</string>
     
     <string name="production_download_url">https://hrctest.crothall.com/m/</string>
