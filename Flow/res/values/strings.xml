@@ -113,6 +113,6 @@
     <string name="candidateCrashReporting">5486db3f83fb791c9500000d</string>
     <string name="dailyCrashReporting">50afc8824f633a36ed000002</string>
     <string name="server_url">https://npc.crothall.com/flow/</string>
-    <string name="crothall_version">2.3</string>
+    <string name="crothall_version">2.4.11</string>
 
 </resources>
